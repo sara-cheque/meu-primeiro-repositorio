@@ -1,2 +1,4 @@
 # meu-primeiro-repositorio
-meu primeiro repositório de Pesquisa e Inovaao
+meu primeiro repositório de Pesquisa e Inovaçao
+
+alterando o meu repositorio remoto.
